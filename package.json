@@ -36,6 +36,9 @@
     "build": "webpack --config ./webpack.config.js --progress --colors",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "engines": {
+    "node": "8.10.0"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },

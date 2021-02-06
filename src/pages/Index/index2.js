@@ -84,6 +84,12 @@ class Index2 extends Component {
                           Success
                         </button>
                       </form>
+                      <br />
+                      <img
+                    className="img-fluid thumbnail onLgSmallify"
+                    src={require(`../../assets/images/hero/rivaldoPm.png`)}
+                    alt=""
+                  />
                     </div>
 
                     {/* <div className="mb-3">
