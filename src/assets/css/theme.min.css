@@ -43,6 +43,13 @@ fill:silver !important;
 
 }
 
+.smallImage{
+  margin-left: auto;
+  margin-right: auto;
+  /* width: 50%; */
+  margin-top:20px;
+}
+
 path.blue {
   color: rgb(67, 67, 185) !important;
   fill: rgb(67, 67, 185) !important;

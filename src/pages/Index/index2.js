@@ -86,7 +86,7 @@ class Index2 extends Component {
                       </form>
                       <br />
                       <img
-                    className="img-fluid thumbnail onLgSmallify"
+                    className="img-fluid thumbnail smallImage"
                     src={require(`../../assets/images/hero/rivaldoPm.png`)}
                     alt=""
                   />
